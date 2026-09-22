@@ -6,5 +6,3 @@
 - 🎓 Studying Applied Informatics
 - 🏫 Prague University of Economics and Business
 - 📈 Faculty of Informatics and Statistics
-- 🌱 Up for new challenges
-- ✨ Check out my work, and let's connect!
